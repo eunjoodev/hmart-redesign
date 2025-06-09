@@ -1,0 +1,122 @@
+
+
+
+
+.startPoint{
+    width: 50px;
+    height: 50px;
+    position: fixed;
+    right: 100px;
+    bottom: 100px;
+    z-index: 899998989;
+    background: black;
+    border: none;
+    outline: none;
+    cursor: pointer;
+
+}
+
+
+#section01{
+    background: white;
+    height: 161px;
+}
+
+
+
+#section01 .top_global {
+    display: flex;
+    margin-bottom: 26px;
+    margin-top: 10px;
+}
+
+#section01 .top_login {
+    margin-left: 1250px;
+}
+
+#section01 .top_global > div {
+    margin-right: 14px;
+}
+
+#section01 .top_center {
+    display: flex;
+}
+
+#section01 .top_center .hmart_logo {
+    margin-top: 4px;
+    margin-left: 360px;
+}
+
+#section01 .top_find {
+    margin-left: 178px;
+}
+
+#section01 .top_zipcode {
+    margin-left: 164px;
+    margin-top: 8px;
+    margin-bottom: 16px;
+}
+
+#section01 .top_myhmart {
+    margin-left: 21px;
+    margin-top: 8px;
+}
+
+#section01 .top_cart {
+    margin-left: 27px;
+}
+
+#section02 {
+    height: 200vh;
+    background: white;
+}
+
+
+#section02 .trigger-this-05 {
+    height: 100%;
+}
+
+#section02 .fix-this-05 {
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+}
+
+
+
+
+
+
+
+
+
+#section02 .checkout_01 {
+    display: flex;
+    margin-left: 360px;
+    margin-right: 360px;
+    text-align: center;
+    justify-content: space-between;
+}
+
+#section02 .checkout_01 .checkout_container .checkout_detail {
+    margin-bottom: 13px;
+
+}
+
+
+#section02 .checkout_01 .checkout_follow {
+    margin-top: 58px;
+
+}
+
+
+
+#section03{
+    height: 534px;
+    background: white;
+}
+
+
+
+
+

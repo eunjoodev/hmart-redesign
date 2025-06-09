@@ -1,0 +1,244 @@
+
+
+
+
+.cart_btn{
+    width: 80px;
+    height: 250px;
+    position: fixed;
+    right: 23px;
+    bottom: 120px;
+    z-index: 899998989;
+    background: transparent;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+
+.startPoint{
+    width: 56px;
+    height: 56px;
+    position: fixed;
+    right: 42px;
+    bottom: 40px;
+    z-index: 899998989;
+    background: #ffffff;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+
+
+#section01{
+    background: #ffffff;
+    height: 191px;
+}
+
+
+
+#section01 .top_global {
+    display: flex;
+    margin-bottom: 26px;
+    margin-top: 10px;
+}
+
+#section01 .top_login {
+    margin-left: 1250px;
+}
+
+#section01 .top_global > div {
+    margin-right: 14px;
+}
+
+#section01 .top_center {
+    display: flex;
+}
+
+#section01 .top_center .hmart_logo {
+    margin-top: 4px;
+    margin-left: 360px;
+}
+
+#section01 .top_find {
+    margin-left: 178px;
+}
+
+#section01 .top_zipcode {
+    margin-left: 164px;
+    margin-top: 8px;
+    margin-bottom: 16px;
+}
+
+#section01 .top_myhmart {
+    margin-left: 21px;
+    margin-top: 8px;
+}
+
+#section01 .top_cart {
+    margin-left: 27px;
+}
+
+#section01 .top_last {
+    display: flex;
+}
+
+#section01 .top_categories {
+    position: absolute;
+    margin-left: 360px;
+    margin-top: 1px;
+}
+
+
+
+
+#section02{
+    height: 903px;
+    background: white;
+}
+
+#section02 .ramen_dried{
+    margin-left: 360px;
+    margin-bottom: 18px;
+}
+
+#section02 .main_01 {
+    display: flex;
+    justify-content: center;
+    /*margin-left: 360px;*/
+}
+
+#section02 .main_01 .main_container01 {
+    width: 500px;
+}
+
+#section02 .main_01 .main_container01 .main_chapagrtti01 {
+    margin-bottom: 12px;
+    margin-right: 18px;
+}
+
+#section02 .main_01 .zoom_img {
+    position: relative;
+    height: 448px;
+}
+
+/*이미지 크기*/
+#section02 .main_01 .zoom_img .target {
+    /*position: relative;*/
+    width: 448px;
+    height: 448px;
+    display: block;
+}
+
+
+#section02 .main_01 .magnifier {
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    border-radius: 50%;
+    box-shadow: 0 0 0 1px rgba(255, 255, 255, 0.85), 0 0 3px 3px rgba(129, 129, 129, 0.25);
+    display: none;
+    z-index: 999999;
+}
+
+
+#section02 .main_01 .main_container02 .main_chapagrtti02 {
+    margin-bottom: 14px;
+    margin-right: 51px;
+}
+
+#section02 .main_01 .main_container03 .main_des {
+    margin-bottom: 15px;
+}
+
+#section02 .main_01 .main_container03 .main_container04 {
+    display: flex;
+}
+
+
+
+#section03{
+    height: 1309px;
+    background: white;
+}
+
+#section03 .bought_together {
+    text-align: center;
+    margin-bottom: 75px;
+}
+
+#section03 .soup_banner {
+    text-align: center;
+    margin-bottom: 122px;
+}
+
+#section03 .might_typo {
+    margin-left: 360px;
+    margin-bottom: 31px;
+}
+
+#section03 .might_01 {
+    margin-left: 360px;
+    margin-right: 360px;
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+}
+
+
+
+
+#section04{
+    /*height: 5703px;*/
+    height: 448vh;
+    background: white;
+}
+
+#section04 .trigger-this-02 {
+    height: 100%;
+}
+
+#section04 .fix-this-02 {
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+}
+
+#section04 .chapagetti_container{
+    display: flex;
+    margin-left: 360px;
+    margin-right: 360px;
+    text-align: center;
+    justify-content: space-between;
+}
+
+#section04 .chapagetti_container .chapagetti_follow{
+    margin-top: 25px;
+}
+
+
+
+#section05{
+    height: 1699px;
+    background: white;
+}
+
+#section05 .chapagetti_suggestion {
+    text-align: center;
+    margin-top: 194px;
+}
+
+
+#section06{
+    height: 534px;
+    background: white;
+}
+
+
+
+
+
+
+
+
+
+

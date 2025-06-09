@@ -1,0 +1,301 @@
+
+
+
+
+.cart_btn{
+    width: 80px;
+    height: 250px;
+    position: fixed;
+    right: 23px;
+    bottom: 120px;
+    z-index: 899998989;
+    background: transparent;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+
+.startPoint{
+    width: 56px;
+    height: 56px;
+    position: fixed;
+    right: 42px;
+    bottom: 40px;
+    z-index: 899998989;
+    background: #ffffff;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+
+
+
+
+
+#section01{
+    background: #ffffff;
+    height: 191px;
+}
+
+
+
+#section01 .top_global {
+    display: flex;
+    margin-bottom: 26px;
+    margin-top: 10px;
+}
+
+#section01 .top_login {
+    margin-left: 1250px;
+}
+
+#section01 .top_global > div {
+    margin-right: 14px;
+}
+
+#section01 .top_center {
+    display: flex;
+}
+
+#section01 .top_center .hmart_logo {
+    margin-top: 4px;
+    margin-left: 360px;
+}
+
+#section01 .top_find {
+    margin-left: 178px;
+}
+
+#section01 .top_zipcode {
+    margin-left: 164px;
+    margin-top: 8px;
+    margin-bottom: 16px;
+}
+
+#section01 .top_myhmart {
+    margin-left: 21px;
+    margin-top: 8px;
+}
+
+#section01 .top_cart {
+    margin-left: 27px;
+}
+
+#section01 .top_last {
+    display: flex;
+}
+
+#section01 .top_categories {
+    position: absolute;
+    margin-left: 360px;
+    margin-top: 1px;
+}
+
+
+
+
+#section02{
+    height: 289px;
+    background: white;
+}
+
+
+#section02 .home_ramyun {
+    margin-left: 360px;
+    margin-bottom: 40px;
+}
+
+#section02 .looking_menu {
+    display: flex;
+    margin-bottom: 32px;
+    margin-left: 390px;
+    margin-right: 390px;
+}
+
+#section02 .looking_menu .looking_left {
+    margin-right: 30px;
+    margin-top: 22px;
+}
+
+#section02 .looking_menu .looking_meat {
+    margin-right: 23px;
+}
+
+#section02 .looking_menu .looking_seafood {
+    margin-right: 23px;
+}
+
+#section02 .looking_menu .looking_produce {
+    margin-right: 23px;
+}
+
+#section02 .looking_menu .looking_easy {
+    margin-right: 23px;
+}
+
+#section02 .looking_menu .looking_frozen {
+    margin-right: 23px;
+}
+
+#section02 .looking_menu .looking_ramyun {
+    margin-right: 23px;
+}
+
+#section02 .looking_menu .looking_snacks {
+    margin-right: 23px;
+}
+
+#section02 .looking_menu .looking_beverage {
+    margin-right: 23px;
+}
+
+#section02 .looking_menu .looking_living {
+    margin-right: 23px;
+}
+
+#section02 .looking_menu .looking_right {
+    margin-left: 30px;
+    margin-top: 22px;
+}
+
+#section02 .ramyun_type {
+    margin-left: 360px;
+}
+
+
+
+#section03{
+    height: 9810px;
+    background: white;
+}
+
+#section03 .itemlist_top{
+    text-align: center;
+    margin-bottom: 28px;
+}
+
+#section03 .itemlist_container{
+    display: flex;
+}
+
+#section03 .itemlist_filter01{
+    position: absolute;
+    margin-left: 360px;
+}
+
+#section03 .itemlist_filter02{
+    position: absolute;
+    margin-left: 1220px;
+}
+
+#section03 .itemlist_container .itemlist_allitem {
+    margin-left: 604px;
+    margin-right: 360px;
+    margin-top: 35px;
+
+
+}
+
+#section03 .itemlist_container .itemlist_low01 {
+    display: flex;
+    margin-bottom: 70px;
+}
+#section03 .itemlist_container .itemlist_low01 .item_01 {
+    margin-right: 20px;
+}
+#section03 .itemlist_container .itemlist_low01 .item_02 {
+    margin-right: 20px;
+}
+#section03 .itemlist_container .itemlist_low01 .item_03 {
+    margin-right: 20px;
+}
+
+
+
+#section03 .itemlist_container .itemlist_low02 {
+    display: flex;
+    margin-bottom: 70px;
+}
+#section03 .itemlist_container .itemlist_low02 .item_05 {
+    margin-right: 20px;
+}
+#section03 .itemlist_container .itemlist_low02 .item_06 {
+    margin-right: 20px;
+}
+#section03 .itemlist_container .itemlist_low02 .item_07 {
+    margin-right: 20px;
+}
+
+
+
+#section03 .itemlist_container .itemlist_low03 {
+    display: flex;
+    margin-bottom: 70px;
+}
+#section03 .itemlist_container .itemlist_low03 .item_09 {
+    margin-right: 20px;
+}
+#section03 .itemlist_container .itemlist_low03 .item_10 {
+    margin-right: 20px;
+}
+#section03 .itemlist_container .itemlist_low03 .item_11 {
+    margin-right: 20px;
+}
+
+
+
+#section03 .itemlist_container .itemlist_low04 {
+    display: flex;
+    margin-bottom: 70px;
+}
+#section03 .itemlist_container .itemlist_low04 .item_13 {
+    margin-right: 20px;
+}
+#section03 .itemlist_container .itemlist_low04 .item_14 {
+    margin-right: 20px;
+}
+#section03 .itemlist_container .itemlist_low04 .item_15 {
+    margin-right: 20px;
+}
+
+
+
+#section03 .itemlist_container .itemlist_low05 {
+    display: flex;
+    margin-bottom: 70px;
+}
+#section03 .itemlist_container .itemlist_low05 .item_17 {
+    margin-right: 20px;
+}
+#section03 .itemlist_container .itemlist_low05 .item_18 {
+    margin-right: 20px;
+}
+#section03 .itemlist_container .itemlist_low05 .item_19 {
+    margin-right: 20px;
+}
+
+#section03 .itemlist_container .itemlist_ect {
+    margin-bottom: 80px;
+}
+
+#section03 .itemlist_container .itemlist_page {
+    text-align: center;
+}
+
+
+
+
+#section04{
+    height: 534px;
+    background: white;
+}
+
+#section04 .footer_itemlist{
+    text-align: center;
+}
+
+
+
+
+
+
