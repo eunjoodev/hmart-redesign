@@ -20,7 +20,7 @@ It was created to improve layout structure, visual consistency, and user flow.
 - Entire layout designed from image mockups to reflect real UI behavior.
 - Publishing built with static assets and hover/interactions using only HTML/CSS/JS.
 
-## 🚀 Preview (optional)
+## 🚀 Preview
 
 You can view it live via local development using **https://eunjoodev.github.io/hmart-redesign/index.html**.
 
